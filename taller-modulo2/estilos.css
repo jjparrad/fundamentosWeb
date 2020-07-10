@@ -16,7 +16,7 @@ h1 {
 .container {
     position: relative;
     background-color: rgb(216, 227, 230);
-    border: 4px solid rgb(27, 64, 85);
+    border: 1px solid black;
     width: 90%;
     margin-bottom: 20px;
     height: 210px;
@@ -27,13 +27,21 @@ h1 {
 
 .title {
     background-color: rgb(84, 99, 105);
-    border: 2px solid rgb(27, 64, 85);
+    border: 1px solid black;
     padding: 5px 30px 5px 30px;
     position: absolute;
-    right: -2px;
-    top: -2px;
+    right: -1px;
+    top: -1px;
     font-size: 125%;
     color: white;
+}
+
+#title2 {
+    background-color: rgb(89, 161, 189);
+}
+
+#title3 {
+    background-color: rgb(33, 66, 80);
 }
 
 .content {
