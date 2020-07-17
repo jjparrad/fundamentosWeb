@@ -1,0 +1,14 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+    
+
+.menu-element{
+    margin-top: 20px;
+    background-color: rgb(204, 204, 204);
+}
+.element-title {
+    font-weight: 900;
+    text-align: center;
+}
