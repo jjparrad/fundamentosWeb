@@ -1,14 +1,17 @@
 body{
     font-family: 'Roboto', sans-serif;
+    background-color: beige;
 }
 
-    
-
 .menu-element{
-    margin-top: 20px;
     background-color: rgb(204, 204, 204);
+    height: 1000px;
+    margin: 20px 20px 0px 15px;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 .element-title {
     font-weight: 900;
     text-align: center;
+    padding: 10px 0px 0px;
 }
